@@ -7,7 +7,7 @@
 
 - 📫 Puedes contactarme **2martinezjulian@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/JulianMartinezz/Curriculums](https://github.com/JulianMartinezz/Curriculums)
+- 📄 Conoce mis experiencias [https://github.com/JulianMartinezz/Curriculums](https://github.com/JulianMartinezz/Curriculums)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
