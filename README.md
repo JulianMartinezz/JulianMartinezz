@@ -1,13 +1,13 @@
-<h1 align="center">Hola, me llamo | Hello, my name is Julian Martinez</h1>
-<h3 align="center">Soy un develooper buscando nuevos desafios | I am a develooper looking for new challenges.</h3>
+<h1 align="center">Hello, my name is Julian Martinez</h1>
+<h3 align="center">I am a develooper looking for new challenges.</h3>
 
-- 🌱 I’m currently learning | Actualmente estoy aprendiendo **Python, JavaScript y C#.**
+- 🌱 I’m currently learning **Python, JavaScript y C#.**
 
-- 💬 Ask me about | Pregúntame sobre **C#, SQL, Python, JavaScript, HTML, CSS y MongoDb.**
+- 💬 Ask me about **C#, SQL, Python, JavaScript, HTML, CSS y MongoDb.**
 
-- 📫 How to reach me | Cómo ponerse en contacto conmigo **2martinezjulian@gmail.com**
+- 📫 How to reach me **2martinezjulian@gmail.com**
 
-- 📄 Know about my experiences | Conocer mis experiencias [https://github.com/JulianMartinezz/Curriculums](https://github.com/JulianMartinezz/Curriculums)
+- 📄 Know about my experiences [https://github.com/JulianMartinezz/Curriculums](https://github.com/JulianMartinezz/Curriculums)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
