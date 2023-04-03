@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Julian Martinez</h1>
 <h3 align="center">I am a develooper looking for new challenges.</h3>
 
-- 🌱 I’m currently learning **Python, JavaScript y C#.**
+- 🌱 I’m currently learning **Python, JavaScript y Java.**
 
 - 💬 Ask me about **C#, SQL, Python, JavaScript, HTML, CSS y MongoDb.**
 
