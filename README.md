@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript y Python.**
 
-- 👨‍💻 All of my projects are available at [https://julianmartinezz.github.io/Portfolio/](https://julianmartinezz.github.io/Portfolio/)
+- 👨‍💻 Check out my most recent project here: [https://to-do-app-two-tau.vercel.app/](https://to-do-app-two-tau.vercel.app/)
 
 - 💬 Ask me about **.NET , JAVA, SQL y Angular**
 
